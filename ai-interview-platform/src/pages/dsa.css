@@ -1,0 +1,33 @@
+.dsa{
+    width: 70%;
+    margin: auto;
+}
+
+.dsa h1{
+    text-align: center;
+}
+
+.dsa select{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.dsa button{
+    width: 100%;
+    padding: 10px;
+}
+
+.questions{
+    margin-top: 30px;
+}
+
+pre{
+
+    text-align: left;
+
+    white-space: pre-wrap;
+
+    padding: 10px;
+
+}

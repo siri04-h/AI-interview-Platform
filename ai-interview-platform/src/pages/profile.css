@@ -1,0 +1,17 @@
+.profile{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.profile input,
+.profile select,
+.profile button{
+    width: 100%;
+    padding: 12px;
+    margin-top: 15px;
+}
+
+.profile button{
+    cursor: pointer;
+}

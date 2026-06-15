@@ -1,0 +1,30 @@
+.dash {
+  width: 80%;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.dash h1 {
+  text-align: center;
+}
+
+.dash p {
+  text-align: center;
+}
+
+.dash button{
+    padding: 14px;
+    font-size: 16px;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.card {
+  padding: 30px;
+  border-radius: 15px;
+  text-align: center;
+}

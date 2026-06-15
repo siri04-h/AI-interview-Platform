@@ -1,0 +1,41 @@
+.mock{
+
+    width: 60%;
+
+    margin: auto;
+
+    text-align: center;
+
+}
+
+.mock select,
+
+.mock button,
+
+.mock textarea{
+
+    width: 100%;
+
+    padding: 12px;
+
+    margin-top: 15px;
+
+}
+
+.mock p,
+
+.mock pre{
+
+    text-align: left;
+
+    border: 1px solid gray;
+
+    padding: 15px;
+
+    border-radius: 10px;
+
+    margin-top: 15px;
+
+    white-space: pre-wrap;
+
+}
